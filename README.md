@@ -1,7 +1,3 @@
-Claro, Giullia! Um README bem elaborado pode ser ótimo para dar um panorama geral do repositório e como ele vai funcionar. Aqui está uma sugestão de como você poderia estruturar o README do seu repositório no GitHub:
-
----
-
 # Kasaustin YouTube Channel 🎥
 
 ## Sobre 📚
@@ -29,7 +25,3 @@ Para entrar em contato, você pode nos enviar um e-mail ou nos encontrar nas red
 - Email: [seu email]
 - Instagram: [seu Instagram]
 - YouTube: [Kasaustin](https://www.youtube.com/kasaustin)
-
----
-
-Espero que isso te ajude a manter tudo organizado! O que você achou? 😊
